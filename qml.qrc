@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Auth.qml</file>
+        <file>NewPage.qml</file>
+        <file>PageCreationScript.js</file>
+    </qresource>
+</RCC>
